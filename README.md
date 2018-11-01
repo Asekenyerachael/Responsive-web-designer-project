@@ -1,3 +1,5 @@
+# Responsive Web Design Project
+
 HTML is a coding language also known as Hyper Text Mark Language
 Its is commonly used in building websites
 HTML can be used together with CSS and JavaScript
